@@ -22,7 +22,7 @@ if choice == '1':
 	exists =os.path.isfile("message.txt")
 	if exists:
 		print colored("file found",'red')
-		key = raw_input(colored("enter your password/key(16 charecter) = " ,'green'))
+		key = raw_input(colored("enter your password/key(16 character) = " ,'green'))
 		Enc_Type = AES.new(key,AES.MODE_ECB)
 		message = open("message.txt").read()
 		pad_msg = pad(message)
