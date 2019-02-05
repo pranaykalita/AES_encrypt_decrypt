@@ -12,3 +12,4 @@ $git cone https://github.com/n0v4c0r3/AES_encrypt_decrypt.git<br>
 
 1.put decrypted.enc on same folder where AES.py located<br>
 2.run AES.py
+test line
