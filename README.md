@@ -1,5 +1,6 @@
 # AES_encrypt_decrypt
 A very simple AES ECB encrpytor and decryptor coded in python<br>
+its a first tryof my aes on python
 
 $git cone https://github.com/n0v4c0r3/AES_encrypt_decrypt.git<br>
 
